@@ -1,0 +1,5 @@
+applications:
+  - path: .
+    name: ibm-transit
+    random-route: true
+    memory: 256M
